@@ -1,0 +1,6 @@
+version: '3'
+services:
+   capstone:
+	image: capstone:latest
+	ports:
+	  - '80:80
